@@ -1,1 +1,3 @@
 MacOS has great built in gesture support. For instance, flicking upward with three fingers puts the current window away. Flicking to the right makes a webpage go backwards. Force touch activates the haptic feedback as well as quick look.
+The finder is a great tool for file organziation. Clicking into the finder opens a window which displays your files, It works in a tab display so it's easy to keep track of the heirachy of files.
+MacOS is well integrated with it's mobile counterparts. It's easy to view notifications you get on your Mac and vise-versa. It's also easy to copy one thing on a mac or iphone and paste it into another device.
