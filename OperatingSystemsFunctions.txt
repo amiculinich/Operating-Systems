@@ -1,0 +1,1 @@
+MacOS has great built in gesture support. For instance, flicking upward with three fingers puts the current window away. Flicking to the right makes a webpage go backwards. Force touch activates the haptic feedback as well as quick look.
